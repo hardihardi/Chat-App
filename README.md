@@ -22,11 +22,10 @@
 - <code>cd echo-wallet
 - <code>npm install</code>
 - <code>npm run dev</code>
-
+  
 ### Demo
-
 - [Echo Wallet](http://echo-wallet.vercel.app)
 
-[HARDI HARDI ](http://github.com/hardihardi)
+[HARDI HARDI] (http://github.com/hardihardi)
 <br>
 Last edited on : 22/04/2022
