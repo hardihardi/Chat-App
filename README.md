@@ -1,6 +1,6 @@
 <h3 align="center">Echo Wallet</h3>
 <p align="center">Platform Bank Sampah Digital</p>
-<img src="./src/assets/banner.png" />
+<img src="https://github.com/or-abdillh/echo-wallet/blob/main/src/assets/banner.png" />
 
 ## Languages and Tools
 
@@ -18,13 +18,13 @@
 
 ### How to install
 
-- <code>git clone https://github.com/hardihardi/Chat-App.git </code>
-- <code>cd echo-wallet
-- <code>npm install</code>
-- <code>npm run dev</code>
+- <div>git clone https://github.com/hardihardi/Chat-App.git </div>
+- <div>cd echo-wallet
+- <div>npm install</div>
+- <div>npm run dev</div>
   
 ### Demo
-- [Echo Wallet](http://echo-wallet.vercel.app)
+- [Echo Wallet] (http://echo-wallet.vercel.app)
 
 [HARDI HARDI] (http://github.com/hardihardi)
 <br>
